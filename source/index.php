@@ -6,9 +6,6 @@
     </head>
     <body>
         <?php
-        include("install/Install.inc");
-        
-        Install::buildDB();
         ?>
     </body>
 </html>
